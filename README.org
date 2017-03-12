@@ -1,0 +1,3 @@
+* Miscellaneous config files for my dev environment
+
+This repository contains miscellaneous configuration files which I symlink to configure various things I use in my dev environment.
